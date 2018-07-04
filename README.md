@@ -1,2 +1,3 @@
 # mysite
-A repo of the front for matthewking.design
+A repo of the front-end for matthewking.design
+
